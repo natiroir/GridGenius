@@ -35,13 +35,3 @@ To run the Grid Genius app locally, follow these steps:
 ## Contributing
 
 We welcome contributions to improve Grid Genius! If you have ideas for new features, bug fixes, or enhancements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Replace `screenshots/screenshot1.png` and `screenshots/screenshot2.png` with the actual paths to your application screenshots. Include a brief description under each screenshot to provide context or highlight specific features.
-
-Feel free to further customize this README with additional sections or details according to your project's needs. This format can help users understand the functionality of your app and encourage contributions from the community.
